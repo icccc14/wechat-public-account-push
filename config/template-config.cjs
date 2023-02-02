@@ -78,7 +78,7 @@ const TEMPLATE_CONFIG = [
       
       土味情话：{{earthy_love_words.DATA}}
       
-      从2007-04-12到现在您已破壳{{love_day.DATA}}天
+      从2007-05-28到现在您已破壳{{love_day.DATA}}天
       
        {{birthday1.DATA}}
        
