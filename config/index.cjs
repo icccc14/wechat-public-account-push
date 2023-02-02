@@ -1,5 +1,5 @@
 /* eslint-disable */
-USE_PASSAGE: '1ee5af64855a4dba835c6186511605a9',
+USE_PASSAGE: 'push-plus',
   
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
