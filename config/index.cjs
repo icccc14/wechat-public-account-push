@@ -9,10 +9,10 @@ const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxe47a62323e698811',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '8a0789bcb8aa31a43ff22fed8c3b8f7e',
+  APP_SECRET: '',
 
   PROVINCE: '黑龙江',
   CITY: '哈尔滨',
@@ -22,7 +22,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oyvAI6HBlGj2czjlxbByD2dQ14eo',
+      id: '1ee5af64855a4dba835c6186511605a9',
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'dCIjhpcD6AdD-cacxRSglfJtmOb3BWTH-HFTjF2-9eI',
