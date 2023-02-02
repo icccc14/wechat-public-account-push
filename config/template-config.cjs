@@ -90,7 +90,42 @@ const TEMPLATE_CONFIG = [
         {{note_ch.DATA}}
     `
   },
- 
+  {
+    id: '0004',
+    title: '望望日记',
+    desc: `
+      **{{date.DATA}}**
+       
+      ---
+     
+      城市：{{city.DATA}}
+      
+      天气：{{weather.DATA}}
+      
+      气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
+      
+      天气提醒：{{notice.DATA}}
+      
+      日出时间：{{sunrise.DATA}} 
+      
+      日落时间：{{sunset.DATA}} 
+       
+      ---
+      
+      土味情话：{{earthy_love_words.DATA}}
+      
+      从2007-11-15到现在您已破壳{{love_day.DATA}}天
+      
+       {{birthday1.DATA}}
+       
+      ---
+      今日建议：
+        {{proposal.DATA}} {{chp.DATA}} 
+        {{note_en.DATA}} 
+        
+        {{note_ch.DATA}}
+    `
+  },
 ]
 
 module.exports = TEMPLATE_CONFIG
