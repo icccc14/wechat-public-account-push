@@ -5,17 +5,31 @@ const TEMPLATE_CONFIG = [
     title: '亲爱的, 早上好',
     desc: `
       **{{date.DATA}}**
+       
+      ---
       
       下个休息日：{{holidaytts.DATA}}
+      
       城市：{{city.DATA}}
+      
       天气：{{weather.DATA}}
+      
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
+      
       天气提醒：{{notice.DATA}}
+      
       日出时间：{{sunrise.DATA}} 
+      
       日落时间：{{sunset.DATA}} 
+       
+      ---
+      
       土味情话：{{earthy_love_words.DATA}}
+      
       从2005-06-19到现在已破壳{{love_day.DATA}}天
-       {{birthday1.DATA}} {{birthday2.DATA}
+      
+       {{birthday1.DATA}}
+       
       ---
       今日建议：
         {{proposal.DATA}} {{chp.DATA}} 
