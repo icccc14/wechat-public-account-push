@@ -33,8 +33,6 @@ const TEMPLATE_CONFIG = [
         {{proposal.DATA}} {{chp.DATA}} 
         {{note_en.DATA}} 
         {{note_ch.DATA}}
-  
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
   },
   {
