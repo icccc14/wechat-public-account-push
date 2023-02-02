@@ -69,7 +69,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 已破壳：
-        { keyword: 'love_day', date: '2007-04-12' },
+        { keyword: 'love_day', date: '2007-05-28' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],},
@@ -80,7 +80,7 @@ const USER_CONFIG = {
       province: '黑龙江',
       city: '五常',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0003',
+      useTemplateId: '0004',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '04-12',
       festivals: [
