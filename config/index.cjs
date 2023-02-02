@@ -14,15 +14,15 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
 
-  PROVINCE: '黑龙江',
-  CITY: '哈尔滨',
-
+  
   USERS: [
     {
       // 想要发送的人的名字
       name: '轩轩',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '1ee5af64855a4dba835c6186511605a9',
+      province: '黑龙江',
+      city: '哈尔滨',
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
@@ -50,7 +50,8 @@ const USER_CONFIG = {
       name: '牛牛',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '7c02b1e7333645f585463ef26b234653',
-      
+      province: '黑龙江',
+      city: '大庆',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0003',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
