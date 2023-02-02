@@ -1,5 +1,4 @@
 /* eslint-disable */
-USE_PASSAGE: 'push-plus',
   
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
@@ -7,6 +6,8 @@ USE_PASSAGE: 'push-plus',
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
+  
+  USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wxe47a62323e698811',
