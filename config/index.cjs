@@ -6,7 +6,7 @@
  */
 const USER_CONFIG = {
 
-  USE_PASSAGE: 'server-chan',
+  USE_PASSAGE: 'push-plus',
   
   // 使用微信测试号：公众号APP_ID
   APP_ID: '',
@@ -22,7 +22,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'SCT194469TYmbxgfkrPyg9q6vx4yxciWC2',
+      id: '1ee5af64855a4dba835c6186511605a9',
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
@@ -59,7 +59,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'SCT194469TYmbxgfkrPyg9q6vx4yxciWC2',
+      id: '1ee5af64855a4dba835c6186511605a9',
     }
   ],
 
